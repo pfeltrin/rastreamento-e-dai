@@ -11,12 +11,12 @@ import {
 
 // Firebase config
 const firebaseConfig = {
-  apiKey: "SUA_API_KEY",
-  authDomain: "SEU_DOMINIO.firebaseapp.com",
-  projectId: "SEU_PROJECT_ID",
-  storageBucket: "SEU_BUCKET.appspot.com",
-  messagingSenderId: "SEU_SENDER_ID",
-  appId: "SEU_APP_ID",
+  apiKey: "AIzaSyDAOCcoCgJFXWwjWY9g9fzJRe413PqCQH0",
+  authDomain: "rastreamento-e-dai.firebaseapp.com",
+  projectId: "rastreamento-e-dai",
+  storageBucket: "rastreamento-e-dai.firebasestorage.app",
+  messagingSenderId: "111470485783",
+  appId: "1:111470485783:web:fd70d729ac04edaf465752"
 };
 
 const app = initializeApp(firebaseConfig);
